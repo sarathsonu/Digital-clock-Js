@@ -1,0 +1,18 @@
+body{
+    background: black;
+}
+#clock {
+    background: whitesmoke;
+    border: 30px solid rebeccapurple;
+    border-radius: 30%;
+    box-shadow: 7em;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%) translateY(-50%);
+    color:#387bc7;
+    font-size: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 9px;
+}
